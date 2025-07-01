@@ -72,15 +72,7 @@ Whether it's a hackathon sprint, a design brainstorm, or a solo deep-dive at 2 A
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishtimattu21&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishtimattu21&theme=radical&hide_border=false" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishtimattu21&layout=compact&theme=radical&hide_border=false" width="47%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=mishtimattu21&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="47%" />
-</p>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 24px;"> <img src="https://github-readme-stats.vercel.app/api?username=mishtimattu21&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="60%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishtimattu21&theme=radical&hide_border=false" width="60%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishtimattu21&layout=compact&theme=radical&hide_border=false" width="60%" /> <img src="https://github-profile-trophy.vercel.app/?username=mishtimattu21&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="65%" /> </div>
 
 ---
 
