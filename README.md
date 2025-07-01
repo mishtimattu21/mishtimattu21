@@ -18,7 +18,7 @@ const mishti = {
   code: ["JavaScript", "Python", "C++", "HTML", "CSS", "TypeScript"],
   askMeAbout: ["web dev", "AI", "React", "Node.js", "anything tech"],
   currentlyLearning: ["Advanced AI techniques", "Full-stack scaling patterns"],
-  coffee: true,
+  sleep: false,
 };
 ```
 
@@ -73,13 +73,13 @@ Whether it's a hackathon sprint, a design brainstorm, or a solo deep-dive at 2 A
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MishtiMattu&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MishtiMattu&theme=radical&hide_border=false" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mishtimattu21&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishtimattu21&theme=radical&hide_border=false" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishtiMattu&layout=compact&theme=radical&hide_border=false" width="47%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=MishtiMattu&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishtimattu21&layout=compact&theme=radical&hide_border=false" width="47%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mishtimattu21&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="47%" />
 </p>
 
 ---
@@ -89,7 +89,7 @@ Whether it's a hackathon sprint, a design brainstorm, or a solo deep-dive at 2 A
 <p align="left">
   <a href="mailto:mishtimattu21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://linkedin.com/in/mishtimattu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/MishtiMattu"><img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/mishtimattu21"><img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 <p align="right"><sub>✨ Let's build something impactful, elegant, and a little bit magical.</sub></p>
