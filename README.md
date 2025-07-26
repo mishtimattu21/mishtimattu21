@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<img src="Blue Modern Motivational LinkedIn Banner.jpg" width="100%" alt="Banner" />
+<img src="Banner.jpg" width="100%" alt="Banner" />
 
 <h1 align="center">Hey there, I'm Mishti Mattu 👋</h1>
 
