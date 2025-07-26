@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 <img src="Banner.jpg" width="100%" alt="Banner" />
 
-<h1 align="center">Hey there, I'm Mishti Mattu 👋</h1>
+<h1 align="center">Hey there!</h1>
 
 <p align="center">
   <i>Full-Stack Developer · AI Explorer · Curious Student of the Craft</i><br>
