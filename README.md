@@ -18,14 +18,11 @@ const mishti = {
   code: ["JavaScript", "Python", "C++", "HTML", "CSS", "TypeScript"],
   askMeAbout: ["web dev", "AI", "React", "Node.js", "anything tech"],
   currentlyLearning: ["Advanced AI techniques", "Full-stack scaling patterns"],
-  sleep: false,
+  coffee: true,
 };
 ```
 
-I write code that bridges imagination and implementation — elegant front-ends, powerful back-ends, and intelligent systems that *just work*.  
-I believe great software is not just built; it’s **crafted**, with curiosity, empathy, and caffeine.
-
-Whether it's a hackathon sprint, a design brainstorm, or a solo deep-dive at 2 AM — I'm always ready to build what matters.
+I write code that bridges imagination and implementation — elegant front-ends, powerful back-ends, and intelligent systems that *just work*. I believe great software is not just built; it’s **crafted**, with curiosity, empathy, and caffeine. Whether it's a hackathon sprint, a design brainstorm, or a solo deep-dive at 2 AM — I'm always ready to build what matters.
 
 ---
 
@@ -73,13 +70,21 @@ Whether it's a hackathon sprint, a design brainstorm, or a solo deep-dive at 2 A
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishtimattu21&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishtimattu21&theme=radical&hide_border=false" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mishtimattu21&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="60%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishtimattu21&theme=radical&hide_border=false" width="60%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishtimattu21&theme=radical&hide_border=false&layout=compact" width="60%" />
 </p>
 
+---
+
+### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishtimattu21&layout=compact&theme=radical&hide_border=false" width="47%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=mishtimattu21&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="47%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mishtimattu21&theme=radical&no-frame=false&no-bg=false&margin-w=15" width="70%" />
 </p>
 
 ---
@@ -93,3 +98,7 @@ Whether it's a hackathon sprint, a design brainstorm, or a solo deep-dive at 2 A
 </p>
 
 <p align="right"><sub>✨ Let's build something impactful, elegant, and a little bit magical.</sub></p>
+
+
+
+
