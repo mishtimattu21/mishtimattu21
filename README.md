@@ -70,13 +70,13 @@ I write code that bridges imagination and implementation — elegant front-ends,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishmattu&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mishtimattu21&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="60%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishmattu&theme=radical&hide_border=false" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishtimattu21&theme=radical&hide_border=false" width="60%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishmattu&theme=radical&hide_border=false&layout=compact" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishtimattu21&theme=radical&hide_border=false&layout=compact" width="60%" />
 </p>
 
 ---
