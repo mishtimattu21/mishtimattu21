@@ -82,6 +82,7 @@ I write code that bridges imagination and implementation — elegant front-ends,
 </p>
 
 ---
+[![GitHub Streak](https://img.shields.io/badge/dynamic/json?color=ff69b4&label=GitHub%20Streak&query=streak&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dmishtimattu21%26theme%3Dradical%26hide_border%3Dfalse%26date_format%3Dj%2520M%255B%2520Y%255D)](https://git.io/streak-stats)
 
 ### 🏆 GitHub Trophies
 
